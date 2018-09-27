@@ -84,5 +84,5 @@ Write a query to find the node type of Binary Tree ordered by the value of the n
  
 ### Question 22: New Companies
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy: 
-![ScreenShot](https://{url})
+![ScreenShot](https://s3.amazonaws.com/hr-challenge-images/19505/1458531031-249df3ae87-ScreenShot2016-03-21at8.59.56AM.png)
  
