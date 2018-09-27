@@ -81,3 +81,8 @@ Write a query to find the node type of Binary Tree ordered by the value of the n
   * Root: If node is root node.
   * Leaf: If node is leaf node.
   * Inner: If node is neither root nor leaf node.
+ 
+### Question 22: New Companies
+Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy: 
+[Alt text](/path/to/img.jpg?raw=true)][https://s3.amazonaws.com/hr-challenge-images/19505/1458531031-249df3ae87-ScreenShot2016-03-21at8.59.56AM.png]
+ 
