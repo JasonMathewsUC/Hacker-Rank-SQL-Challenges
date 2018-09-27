@@ -211,8 +211,6 @@ P(R) represents a pattern drawn by Julia in R rows. The following pattern repres
 
 ### Question 54: Draw The Triangle 2
 P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5):
-  * 
-  * * 
-  * * * 
-  * * * * 
-  * * * * *
+
+### Question 55: Print Prime Numbers
+Write a query to print all prime numbers less than or equal to 1000. Print your result on a single line, and use the ampersand (&) character as your separator (instead of a space).
