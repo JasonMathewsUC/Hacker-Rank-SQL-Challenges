@@ -1,2 +1,2 @@
-## Hacker-Rank-SQL-Challenges
-# Details of SQL Questions from Hacker Rank Challenge
+# Hacker-Rank-SQL-Challenges
+## Details of SQL Questions from Hacker Rank Challenge
